@@ -1,4 +1,4 @@
-# ADA-TPC1
+# Analysis and Design of Algorithms
 Dynamic programming minimum cost path problem variation
 
 --TO DO:
